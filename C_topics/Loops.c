@@ -22,7 +22,7 @@ int main(){
     printf("Sum of numbers from 1 to %d is %d\n", n, sumW);
 
     i=1;
-    do{
+    do{ // Difference between this and other loops is that this runs at least one time
         sumDW +=i;
         i++;
     }while(i<=n);
@@ -30,6 +30,5 @@ int main(){
     printf("Sum of numbers from 1 to %d is %d\n", n, sumDW);
 
     // sum = n*(n+1)/2;
-
     return 0;
 }
