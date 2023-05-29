@@ -21,5 +21,6 @@ int main(){
     printf("%d %0.2f %c", a, b, c);
     // instead of %0.2f we could also use %4.2f which means take upto 2 digits after decimal and consider the length of the number at least to be 4
     // If number of digits along with decimal is less than the length specified then this will give space before the first digit
+    
     return 0;
 }

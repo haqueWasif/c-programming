@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "cmath": "c",
+        "cstdarg": "c",
+        "cstdint": "c",
+        "cstdio": "c",
+        "cstdlib": "c",
+        "type_traits": "c",
+        "limits": "c",
+        "*.tcc": "c",
+        "typeinfo": "c",
+        "string": "c",
+        "string_view": "c",
+        "unordered_map": "c"
+    }
+}
